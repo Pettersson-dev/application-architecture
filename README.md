@@ -13,7 +13,7 @@
 - **Related Resources**:  
   - [Security Architecture](https://github.com/pettersson-dev/security-architecture)  
   - [API Integration Architecture](https://github.com/Pettersson-dev/Integration-architecture/blob/main/api-integration.md)  
-  - [Programming Language Decision Guide](https://github.com/pettersson-dev/programming-language-decision-guide)  
+  - [Programming Language Decision Guide](https://github.com/Pettersson-dev/Language-selection)
 
 ---
 
